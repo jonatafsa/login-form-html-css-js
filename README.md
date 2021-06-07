@@ -12,9 +12,9 @@ Estrutura básica da Web em HTML/CSS e JS.
 
 |TECH	         |VERSION						 |PERCENT        |
 |----------------|-------------------------------|---------------|
-|HTLML			 |`"5"				`            |20%            |
-|CSS	         |`"3"`				             |78%            |
-|Javascript      |`"ES6"`						 |2%			 |
+|HTLML			 |`"5"				`            |35.9%            |
+|CSS	         |`"3"`				             |60.7%            |
+|Javascript      |`"ES6"`						 |3.4%			 |
 
 
 
